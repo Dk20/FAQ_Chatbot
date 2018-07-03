@@ -9,5 +9,5 @@ Run Reimbursement_make_json.py file , add your excel files name and make appropr
 
 ![alt text](https://github.com/Dk20/FAQ_Chatbot/blob/master/ScreenShot.png "screen shot")
 
-Then change the json file as the source file for TopK2.py
+Then make created the json file as the source file for TopK2.py
 
