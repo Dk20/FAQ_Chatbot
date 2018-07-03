@@ -1,0 +1,439 @@
+{
+    "1": {
+        "Question ": "Will I get the full amount of the claim or a part of the sample or a part of it ?",
+        "Question_list": [
+            "get",
+            "full",
+            "amount",
+            "claim",
+            "part",
+            "sample",
+            "part"
+        ],
+        "Tags": [],
+        "Answer": "Yes, you will get the full amount of the sampling according to the entitlement as per your grade."
+    },
+    "2": {
+        "Question ": "What is the procedure for online reimbursement under sampling scheme?",
+        "Question_list": [
+            "procedure",
+            "online",
+            "reimbursement",
+            "sampling",
+            "scheme"
+        ],
+        "Tags": [],
+        "Answer": "http://eclaims.net.itc/"
+    },
+    "3": {
+        "Question ": "Will I get reimbursement if the product is in discount?",
+        "Question_list": [
+            "get",
+            "reimbursement",
+            "product",
+            "discount"
+        ],
+        "Tags": [],
+        "Answer": "Reimbursement would be permissible even if the products are purchased in discount scheme on offer."
+    },
+    "4": {
+        "Question ": "How do I claim hand written bills ?",
+        "Question_list": [
+            "claim",
+            "hand",
+            "written",
+            "bills"
+        ],
+        "Tags": [],
+        "Answer": "Hand written bills cannot be claimed , proper merchandise bills with the name of the place where it has been bought need to be there . For the reimbursement ."
+    },
+    "5": {
+        "Question ": "What do I do if my bills have faded away ?",
+        "Question_list": [
+            "bills",
+            "faded",
+            "away"
+        ],
+        "Tags": [],
+        "Answer": "If the bill have chances of fading away then a Xerox of the bill needs to be made prior to the bill fading away which will be reimbursable .\nBut the if the bills have faded totally then the sample will not be reimbursed."
+    },
+    "6": {
+        "Question ": "What happens if my bill is lost and the claim is of a huge amount",
+        "Question_list": [
+            "happens",
+            "bill",
+            "lost",
+            "claim",
+            "huge",
+            "amount"
+        ],
+        "Tags": [],
+        "Answer": "If the bill is lost the claim cannot be made"
+    },
+    "7": {
+        "Question ": "What is the minimum amount I can claim in sampling",
+        "Question_list": [
+            "minimum",
+            "amount",
+            "claim",
+            "sampling"
+        ],
+        "Tags": [],
+        "Answer": "Rs 1000 is the minimum amount of the reimbursement claim . If the request claim is less that Rs 1000 then it should be clubbed with future requests."
+    },
+    "8": {
+        "Question ": "If I am buying ITC product from non-ITC store then how to claim in Eclaim system?",
+        "Question_list": [
+            "buying",
+            "product",
+            "non",
+            "store",
+            "claim",
+            "claim",
+            "system"
+        ],
+        "Tags": [
+            "ITC"
+        ],
+        "Answer": "A bill will be needed from the vendor from whom the product has been bought and the physical copy of the bill needs to be submitted."
+    },
+    "9": {
+        "Question ": "Can I claim ITC product for on line purchase ?",
+        "Question_list": [
+            "claim",
+            "product",
+            "line",
+            "purchase"
+        ],
+        "Tags": [
+            "ITC"
+        ],
+        "Answer": "From 30 October 2015 products bought from online channel will be permissible , \nwhich should be supported by the proof of payment and any cash back received from the credit card or online payment portal."
+    },
+    "10": {
+        "Question ": "How to claim Travel house car bills ( Outstating / Local) in Eclaim?",
+        "Question_list": [
+            "claim",
+            "travel",
+            "house",
+            "car",
+            "bills",
+            "local",
+            "claim"
+        ],
+        "Tags": [
+            "outstating"
+        ],
+        "Answer": "All the bills needs to be provided."
+    },
+    "11": {
+        "Question ": "Is parking bill reimbursable?",
+        "Question_list": [
+            "parking",
+            "bill"
+        ],
+        "Tags": [
+            "reimbursable"
+        ],
+        "Answer": "No parking bills are not reimbursed."
+    },
+    "12": {
+        "Question ": "If I am retiring in middle of Fy the can I claim the entire sampling amount eligible?",
+        "Question_list": [
+            "retiring",
+            "middle",
+            "claim",
+            "entire",
+            "sampling",
+            "amount",
+            "eligible"
+        ],
+        "Tags": [
+            "fy"
+        ],
+        "Answer": "yes"
+    },
+    "13": {
+        "Question ": "During  secondment whether I am eligible to claim sampling?",
+        "Question_list": [
+            "secondment",
+            "eligible",
+            "claim",
+            "sampling"
+        ],
+        "Tags": [],
+        "Answer": "Yes sampling can be claimed in the respective place of posting."
+    },
+    "14": {
+        "Question ": "How does sampling entitlement of a promote gets changed in system?",
+        "Question_list": [
+            "sampling",
+            "entitlement",
+            "promote",
+            "gets",
+            "changed",
+            "system"
+        ],
+        "Tags": [],
+        "Answer": "The promote will get the entire sampling entitlement of the promoted grade irrespective of the date of promotion"
+    },
+    "15": {
+        "Question ": "Can OAs avail spa in ITC Sonar & take reimbursements?",
+        "Question_list": [
+            "oas",
+            "avail",
+            "spa",
+            "sonar",
+            "take",
+            "reimbursements"
+        ],
+        "Tags": [
+            "ITC"
+        ],
+        "Answer": "Yes they can take reimbursements"
+    },
+    "16": {
+        "Question ": "Can sampling be claimed in outstations & reimbursed?",
+        "Question_list": [
+            "sampling",
+            "claimed",
+            "outstations",
+            "reimbursed"
+        ],
+        "Tags": [],
+        "Answer": "Yes on submission of proper bills."
+    },
+    "17": {
+        "Question ": "Would products and services under gift voucher be under the scheme?",
+        "Question_list": [
+            "products",
+            "services",
+            "gift",
+            "voucher",
+            "scheme"
+        ],
+        "Tags": [],
+        "Answer": "NO, the products and services availed through gift voucher would be out of the purview of this reimbursement."
+    },
+    "18": {
+        "Question ": "  How many claims can be put in a month?",
+        "Question_list": [
+            "many",
+            "claims",
+            "put",
+            "month"
+        ],
+        "Tags": [],
+        "Answer": "Only one claim should be done in one month."
+    },
+    "19": {
+        "Question ": "  Total time requires towards getting the payment for one claim?",
+        "Question_list": [
+            "total",
+            "time",
+            "requires",
+            "getting",
+            "payment",
+            "one",
+            "claim",
+            "required",
+            "get"
+        ],
+        "Tags": [],
+        "Answer": "15 days will be needed to get the payment of one claim"
+    },
+    "20": {
+        "Question ": "What is the payment mode which is used?",
+        "Question_list": [
+            "payment",
+            "mode",
+            "used"
+        ],
+        "Tags": [],
+        "Answer": "Payment options are available in the portal option needs to be selected as per continence."
+    },
+    "21": {
+        "Question ": "The eligibility of an employee when an employee is promoted from non-management to management cadre,",
+        "Question_list": [
+            "eligibility",
+            "employee",
+            "employee",
+            "promoted",
+            "non",
+            "management",
+            "management",
+            "cadre"
+        ],
+        "Tags": [],
+        "Answer": "When an employee is promoted FM non-mgmt. to management cadre, then sampling will be applicable wef date of promotion into management."
+    },
+    "22": {
+        "Question ": "Invoice is sufficient or tags are also required for claiming Wills & John players product?",
+        "Question_list": [
+            "invoice",
+            "sufficient",
+            "tags",
+            "also",
+            "required",
+            "claiming",
+            "wills",
+            "john",
+            "players",
+            "product",
+            "johnson",
+            "products"
+        ],
+        "Tags": [],
+        "Answer": "Invoices along with the tags are required for JP products . But for Wills  the tag is not required a invoice will be sufficient."
+    },
+    "23": {
+        "Question ": "How we can claim the reimbursement for online shopping?",
+        "Question_list": [
+            "claim",
+            "reimbursement",
+            "online",
+            "shopping"
+        ],
+        "Tags": [],
+        "Answer": "For online product reimbursement under sampling scheme , employees need to provide proof of payment like :\nI) for cash on delivery then money receipt or the print of the cash payment screen obtained from the website should be attached with the claim.   \nii) If payment made through credit card then credit card bank statement copy  showing the debit of the specific ITC product purchased should be attached with the claim.\niii)If payment made through debit card then the bank statement copy showing the debit of the specific ITC product purchased should be attached with the claim.\niv) If any cash back is provided on the credit card or offered by the online website then it needs to be highlighted in the credit card bank statement and the correct balance amount only should be claimed by the employee."
+    },
+    "24": {
+        "Question ": "What is Sampling, Tell me about sampling,. Sampling",
+        "Question_list": [
+            "sampling",
+            "tell",
+            "sampling",
+            "sampling"
+        ],
+        "Tags": [],
+        "Answer": "Managers in Level 5 (grades F/E) and above, Level 6, Level 7, Level 8, OAs and Staff R are eligible for reimbursement against purchase of ITC products and services.\n These can be bought for personal user or as gifts for their friends and associates.\n"
+    },
+    "25": {
+        "Question ": "What is my eligibility post my promotion?",
+        "Question_list": [
+            "eligibility",
+            "post",
+            "promotion"
+        ],
+        "Tags": [],
+        "Answer": "In the event of promotion during the financial year, the eligibility\n-- would be as per the promoted grade for the entire financial year.\n-- When an employee is promoted FM non-mgmt. to management cadre, then sampling will be applicable wef date of promotion into management."
+    },
+    "26": {
+        "Question ": "Can I submit expenditures on behalf of my friends & family",
+        "Question_list": [
+            "submit",
+            "expenditures",
+            "behalf",
+            "friends",
+            "family"
+        ],
+        "Tags": [],
+        "Answer": "Employees can also incur expenditure on behalf of relatives and associates."
+    },
+    "27": {
+        "Question ": "Can I submit invoices from Shopper Stop",
+        "Question_list": [
+            "submit",
+            "invoices",
+            "shopper",
+            "stop"
+        ],
+        "Tags": [],
+        "Answer": "Yes invoices can be sent for sampling"
+    },
+    "28": {
+        "Question ": "Can I submit invoices from Pantaloons",
+        "Question_list": [
+            "submit",
+            "invoices",
+            "pantaloons"
+        ],
+        "Tags": [],
+        "Answer": "Yes invoices can be sent for sampling"
+    },
+    "29": {
+        "Question ": "Can I submit invoices from Spencer",
+        "Question_list": [
+            "submit",
+            "invoices",
+            "spencer",
+            "get",
+            "reimbursement",
+            "shopping",
+            "spencers",
+            "shops",
+            "apply",
+            "bills",
+            "claim"
+        ],
+        "Tags": [],
+        "Answer": "Yes invoices can be sent for sampling"
+    },
+    "30": {
+        "Question ": "What is this Sampling Reimbursement?",
+        "Question_list": [
+            "sampling",
+            "reimbursement"
+        ],
+        "Tags": [],
+        "Answer": "All the itc products can be claimed for reimbursement from the company this is done to increase branding of the itc products . Reimbursement can be done even if friends and family also buy itc products."
+    },
+    "31": {
+        "Question ": "Is everybody eligible for sampling?",
+        "Question_list": [
+            "eligible",
+            "sampling"
+        ],
+        "Tags": [],
+        "Answer": "Managers in Level 5 (grades F/E) and above are eligible for reimbursement against purchase of ITC products and services"
+    },
+    "32": {
+        "Question ": "Where do I access the sampling reimbursement form?",
+        "Question_list": [
+            "access",
+            "sampling",
+            "reimbursement",
+            "form"
+        ],
+        "Tags": [],
+        "Answer": "http://eclaims.net.itc/"
+    },
+    "33": {
+        "Question ": "What is my eligible limit for sampling?",
+        "Question_list": [
+            "eligible",
+            "limit",
+            "sampling"
+        ],
+        "Tags": [],
+        "Answer": "1000 per month, .10,000/- per financial year."
+    },
+    "34": {
+        "Question ": "What all are reimbursable under the Sampling Scheme?",
+        "Question_list": [
+            "sampling",
+            "scheme"
+        ],
+        "Tags": [
+            "reimbursable"
+        ],
+        "Answer": "All the Itc products."
+    },
+    "35": {
+        "Question ": "Which hotels are eligible for reimbursement?",
+        "Question_list": [
+            "hotels",
+            "eligible",
+            "reimbursement"
+        ],
+        "Tags": [],
+        "Answer": "Hotels which are under the scheme:\nITC Mughal Agra\nITC Grand Chola\nITC Windsor,Bangaluru\nMy Fortune , Chennai\nMy Fortune , BangaloreThe Kakatiya, Hyderabad\nThe Kakatiya, Hyderabad\nITC Rajputana, Jaipur\nITC Sonar, Kolkata\nITC Maratha, Mumbai\nITC Grand Central, Mumbai\nITC Maurya, New Delhi\nSheraton New Delhi, New Delhi\nWelcomHeritage Umed Bhawan Palace, Kota\nITC Gardenia hotel, Bengaluru\nWelcomHotel Vadodara, Vadodara\nFortune Bay Island, Port Blair\nClassic Golf Resort, Delhi"
+    },
+    "weird_words": [
+        "whether",
+        "would",
+        "everybody",
+        "towards",
+        "fro"
+    ]
+}
